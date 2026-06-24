@@ -1,0 +1,15 @@
+{
+  "name": "jeevi-portfolio",
+  "version": "1.0.0",
+  "description": "Jeevi's Portfolio",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeevisri561/Jeevi_portfolio.git"
+  },
+  "keywords": ["portfolio"],
+  "author": "Jeevi Sri",
+  "license": "MIT"
+}
