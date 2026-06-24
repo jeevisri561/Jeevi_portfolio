@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: jeevi-portfolio
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
