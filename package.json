@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Jeevi's Portfolio",
   "scripts": {
-    "build": "echo 'No build needed'"
+    "build": "echo 'No build needed'",
+    "start": "echo 'No server needed - static site'"
   },
   "repository": {
     "type": "git",
